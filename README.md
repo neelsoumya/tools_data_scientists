@@ -14,6 +14,8 @@ List of tools for data scientists
 * Mirador for quick data visualization and statistics (also caravel from AirBnB, Trifacta Data Wrangler, plotly, Lyra, Shiny R, Bokeh Python)
 
      Also tensorflow in the browser
+     
+     * http://projector.tensorflow.org/
 
 * Weka for quick machine learning and Orange for quick machine learning and visual programming (also rattle package in R)
 
@@ -39,7 +41,11 @@ List of tools for data scientists
 
 * Virtual machines (VirtualBox) and run Ubuntu UNIX in the VM
 
-         Download the Ubuntu ISO file here
+          * https://www.virtualbox.org/wiki/Downloads
+
+     * Download the Ubuntu ISO file here
+     
+          * https://ubuntu.com/download/desktop
 
 * Configuration as code (AirFlow)
 
